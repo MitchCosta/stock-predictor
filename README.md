@@ -1,4 +1,4 @@
-<p align = "center" draggable=”false” ><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxnJjqd48VnXk-EoDT6XVO78MlHEX5SXkczQVJEYzmd_CQJGZCyUroKPuPVUAJ2JlMJOc&usqp=CAU" 
+<p align = "center" draggable=”false” ><img src="prophet.png" 
      width="200px"
      height="auto"/>
 </p>
